@@ -1,5 +1,7 @@
 ### Hi, I'm Rassoul 👋
 
+🌐 **Portfolio: [rassoul7.github.io](https://rassoul7.github.io)**, a 3D scroll story built with React, Three.js and GSAP ([source](https://github.com/rassoul7/portfolio)).
+
 Final-year Computer Engineering student at **École Supérieure Polytechnique, Dakar** (graduating 2027),
 currently in an **R&D work-study programme on industrial digital twins**.
 I build full-stack applications and take care of how they ship: containers, CI, deployment.
@@ -17,6 +19,9 @@ I build full-stack applications and take care of how they ship: containers, CI, 
 React · TypeScript · Next.js · Django REST Framework · FastAPI · Spring Boot · PostgreSQL · Docker ·
 GitHub Actions · Keycloak
 
+**Beyond code**
+Photography as [THRUFRAME](https://www.instagram.com/thru_frame/) · chess on [Chess.com](https://www.chess.com/member/RASSOUL_NAME) · calisthenics
+
 **Elsewhere**
-[LinkedIn](https://www.linkedin.com/in/mouhamadou-rassoul-name-a3358b267) · rassoulname@gmail.com
-Open to full-time roles, PhD positions and freelance projects (Senegal, France, remote).
+[Portfolio](https://rassoul7.github.io) · [LinkedIn](https://www.linkedin.com/in/mouhamadou-rassoul-name-a3358b267) · rassoulname@gmail.com
+Currently on an internship, so open to **freelance projects only, fully remote**.
